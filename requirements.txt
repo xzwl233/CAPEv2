@@ -25,22 +25,22 @@ pyinstaller
 maec
 regex
 xmltodict
-git+https://github.com/doomedraven/sflock.git
-git+https://github.com/doomedraven/socks5man.git
+git+https://github.com/xzwl233/sflock.git
+git+https://github.com/xzwl233/socks5man.git
 pyattck==3.0.1
 distorm3
 openpyxl
-git+https://github.com/volatilityfoundation/volatility3
-git+https://github.com/DissectMalware/XLMMacroDeobfuscator
+git+https://github.com/xzwl233/volatility3
+git+https://github.com/xzwl233/XLMMacroDeobfuscator
 passlib
 pyzipper
 mwcp==3.2.1
-git+https://github.com/kevthehermit/RATDecoders.git
-git+https://github.com/fireeye/capa.git
+git+https://github.com/xzwl233/RATDecoders.git
+git+https://github.com/xzwl233/capa.git
 greenlet==0.4.16
 cython
-git+https://github.com/andreasvc/pyre2.git
-git+https://github.com/CAPESandbox/peepdf.git
+git+https://github.com/xzwl233/pyre2.git
+git+https://github.com/xzwl233/peepdf.git
 matplotlib>=2.2.2
 numpy>=1.15.0
 six>=1.12.0
@@ -65,12 +65,12 @@ java-random
 python-whois
 bs4
 pype32-py3
-git+https://github.com/kbandla/pydeep.git
+git+https://github.com/xzwl233/pydeep.git
 pyvmomi
 django-recaptcha==2.0.6 # https://pypi.org/project/django-recaptcha/
 django-allauth # https://django-allauth.readthedocs.io/en/latest/configuration.html
 django-crispy-forms
-git+https://github.com/CAPESandbox/httpreplay
+git+https://github.com/xzwl233/httpreplay
 django-settings-export
 django-csp
 django-otp
